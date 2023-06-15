@@ -22,7 +22,7 @@
 - Python 3.x instalado.
 - Biblioteca Tkinter instalada (normalmente vem junto com a instalação padrão do Python).
 
-## Como executar o programa:
+## Como executar o programa:<br>
 
 1. Clone ou faça o download deste repositório para o seu computador.
 
@@ -43,10 +43,10 @@
 ## Contribuições:
 >> *Contribuições são bem-vindas! Se você encontrar algum problema, tiver ideias de melhorias ou quiser adicionar novos recursos à calculadora, fique à vontade para abrir uma issue ou enviar um pull request.<br>*
 
-## Licença
+## Licença:<br>
 
 *Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Sinta-se à vontade para usar, modificar e distribuir o código conforme necessário.*
 
-## Conclusão
+## Conclusão:<br>
 
 Obrigado por verificar este projeto! Espero que você tenha achado útil e divertido. 😊
